@@ -1,0 +1,9 @@
+# Only prototypes 02 and 03 are published
+01-basic/
+
+node_modules
+dist
+.env
+.env.local
+*.tsbuildinfo
+.DS_Store
